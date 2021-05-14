@@ -1,2 +1,2 @@
-1. Twitter_comments.ipynb:
+1. Twitter_Comments.ipynb:
     Sentiment Analysis on kaggle 1.6 million tweet : https://www.kaggle.com/kazanova/sentiment140
